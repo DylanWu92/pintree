@@ -12,7 +12,7 @@
           {
             "type": "folder",
             "addDate": 1666772813650,
-            "title": "Dylan Wu",
+            "title": "Daily use",
             "children": [
               {
                 "type": "link",
@@ -111,6 +111,20 @@
                 "title": "11.11.11.82",
                 "icon": "https://logo.clearbit.com/webpos.lab.ports1961.com",
                 "url": "http://webpos.lab.ports1961.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1750230429586,
+                "title": "短信平台客户端",
+                "icon": "https://logo.clearbit.com/platform.hbsmservice.com",
+                "url": "https://platform.hbsmservice.com:8805/ClusterPlate/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752031398300,
+                "title": "员工网人事资料查询",
+                "icon": "https://logo.clearbit.com/www.staff.ports1961.com",
+                "url": "http://www.staff.ports1961.com/app.php?m=website&a=personnelinfo&q=SLY"
               }
             ]
           },
@@ -309,6 +323,20 @@
             "title": "PDA轮询查询",
             "icon": "https://logo.clearbit.com/elk.lab.ports-intl.com",
             "url": "http://elk.lab.ports-intl.com/app/kibana#/discover?_g=(refreshInterval:(pause:!t,value:0),time:(from:now-4h,mode:quick,to:now))&_a=(columns:!(message),index:bb1323b0-5e90-11ef-a85a-a9c829b8dded,interval:auto,query:(language:kuery,query:%22cs05%22),sort:!('@timestamp',desc))"
+          },
+          {
+            "type": "link",
+            "addDate": 1753152545931,
+            "title": "AI Chat Hub",
+            "icon": "https://logo.clearbit.com/10.32.1.32",
+            "url": "http://10.32.1.32:8028/it"
+          },
+          {
+            "type": "link",
+            "addDate": 1759192525302,
+            "title": "Dify",
+            "icon": "https://logo.clearbit.com/dify.lab.ports1961.com",
+            "url": "http://dify.lab.ports1961.com/apps"
           }
         ]
       },
@@ -699,6 +727,13 @@
                 "title": "赣州数字信访“一网通”服务平台",
                 "icon": "https://logo.clearbit.com/wsxf.gzxf.gov.cn",
                 "url": "https://wsxf.gzxf.gov.cn:8001/?orgid=36071"
+              },
+              {
+                "type": "link",
+                "addDate": 1748936035804,
+                "title": "赣县区 问题汇总 – 网络问政",
+                "icon": "https://logo.clearbit.com/wenz.newskj.com",
+                "url": "https://wenz.newskj.com/index/index/area/id/4"
               }
             ]
           },
@@ -1358,6 +1393,13 @@
             "title": "w3cschool官网 - 1000多本编程教程免费学",
             "icon": "https://logo.clearbit.com/www.w3cschool.cn",
             "url": "https://www.w3cschool.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1752656400100,
+            "title": "PhET：免费的在线物理、化学、生物、地理及数学仿真程序",
+            "icon": "https://logo.clearbit.com/phet.colorado.edu",
+            "url": "https://phet.colorado.edu/zh_CN/"
           }
         ]
       },
@@ -1494,6 +1536,13 @@
                     "title": "宝塔Linux面板 VM",
                     "icon": "https://logo.clearbit.com/192.168.17.128",
                     "url": "https://192.168.17.128:12770/91c181bc"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1759194424551,
+                    "title": "6、CentOS 9 安装 Docker_centos9 安装docker-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_39251691/article/details/149708940"
                   }
                 ]
               },
@@ -1515,6 +1564,13 @@
                     "title": "Esxi FNNAS OS",
                     "icon": "https://logo.clearbit.com/5ddd.com",
                     "url": "https://5ddd.com/dylanwu"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1758673972332,
+                    "title": "Esxi FNOSX86",
+                    "icon": "https://logo.clearbit.com/5ddd.com",
+                    "url": "https://5ddd.com/dylanwu02"
                   },
                   {
                     "type": "link",
@@ -1557,6 +1613,13 @@
                     "title": "Exsi VMNAS - Synology DiskStation",
                     "icon": "https://logo.clearbit.com/10.32.81.132",
                     "url": "http://10.32.81.132:5000/#/signin"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746497425149,
+                    "title": "在ESXI上安装黑群晖Releases · fbelavenuto/arpl",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/fbelavenuto/arpl/releases"
                   }
                 ]
               },
@@ -1641,6 +1704,20 @@
                     "title": "esxi 6.7与许可证秘钥分配_esxi6.7许可证密钥-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/xiaobo57/article/details/138789335"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746576894396,
+                    "title": "ESXI 6.7 安装黑群晖7.1版本_esxi6.7安装黑群晖-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_44960580/article/details/129852670"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746577365092,
+                    "title": "在ESXI上安装黑群晖_esxi安装黑群晖-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_28424051/article/details/141637175"
                   }
                 ]
               },
@@ -1774,6 +1851,13 @@
                     "title": "(3条消息) 域环境：用户运行软件，每次都提示输入管理员密码怎么解决？_qwuter的专栏-CSDN博客_域用户每次运行软件都要权限",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/qwuter/article/details/84954717"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1756888450228,
+                    "title": "“文件已损坏且无法打开”Excel文件修复和恢复方案-万兴易修",
+                    "icon": "https://logo.clearbit.com/huifu.wondershare.cn",
+                    "url": "https://huifu.wondershare.cn/repair/10093299.html"
                   }
                 ]
               },
@@ -1802,6 +1886,13 @@
                     "title": "Ventoy",
                     "icon": "https://logo.clearbit.com/www.ventoy.net",
                     "url": "https://www.ventoy.net/cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751511499797,
+                    "title": "UEFI模式安全启动操作说明",
+                    "icon": "https://logo.clearbit.com/www.ventoy.net",
+                    "url": "https://www.ventoy.net/cn/doc_secure.html"
                   }
                 ]
               },
@@ -2232,18 +2323,53 @@
             "title": "study",
             "children": [
               {
-                "type": "link",
-                "addDate": 1740376732734,
-                "title": "Download LM Studio - Mac, Linux, Windows",
-                "icon": "https://logo.clearbit.com/lmstudio.ai",
-                "url": "https://lmstudio.ai/download"
-              },
-              {
-                "type": "link",
-                "addDate": 1741836143590,
-                "title": "V3 API",
-                "icon": "https://logo.clearbit.com/api.gpt.ge",
-                "url": "https://api.gpt.ge/"
+                "type": "folder",
+                "addDate": 1740450507956,
+                "title": "API",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1753315310330,
+                    "title": "Moonshot AI 开放平台 - Kimi 大模型 API 服务",
+                    "icon": "https://logo.clearbit.com/platform.moonshot.cn",
+                    "url": "https://platform.moonshot.cn/console/api-keys"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740450428507,
+                    "title": "SiliconFlow, Accelerate AGI to Benefit Humanity",
+                    "icon": "https://logo.clearbit.com/siliconflow.cn",
+                    "url": "https://siliconflow.cn/zh-cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740376732734,
+                    "title": "Download LM Studio - Mac, Linux, Windows",
+                    "icon": "https://logo.clearbit.com/lmstudio.ai",
+                    "url": "https://lmstudio.ai/download"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741836143590,
+                    "title": "V3 API--api.v3.cm",
+                    "icon": "https://logo.clearbit.com/api.gpt.ge",
+                    "url": "https://api.gpt.ge/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1756687589863,
+                    "title": "OpenRouter",
+                    "icon": "https://logo.clearbit.com/openrouter.ai",
+                    "url": "https://openrouter.ai/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1757037744328,
+                    "title": "grsai.com/zh/dashboard/models",
+                    "icon": "https://logo.clearbit.com/grsai.com",
+                    "url": "https://grsai.com/zh/dashboard/models"
+                  }
+                ]
               },
               {
                 "type": "link",
@@ -2253,74 +2379,459 @@
                 "url": "https://www.coze.cn/space/7474845653622603811/bot/7474883938713255971"
               },
               {
+                "type": "link",
+                "addDate": 1740471831208,
+                "title": "工作室 - Dify",
+                "icon": "https://logo.clearbit.com/192.168.6.101",
+                "url": "http://192.168.6.101/apps"
+              },
+              {
+                "type": "link",
+                "addDate": 1752197187278,
+                "title": "DMXAPI官网：中国多模态大模型API聚合平台",
+                "icon": "https://logo.clearbit.com/www.dmxapi.cn",
+                "url": "https://www.dmxapi.cn/welcome"
+              },
+              {
+                "type": "link",
+                "addDate": 1753317359825,
+                "title": "‍​‌​​‍​‬‌​‌‍​​‍​﻿​​​⁠‬​​﻿​‍‌‌‌​​‍‍‬‌​​​‌﻿‌﻿​⁠﻿﻿​⁠COZE(扣子)热门工作流 - 飞书云文档",
+                "icon": "https://logo.clearbit.com/za1q0ft5t7.feishu.cn",
+                "url": "https://za1q0ft5t7.feishu.cn/wiki/DSG5wiPLqiaXK2kJKD8c9UW7neb"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1746755879605,
+            "title": "Dify",
+            "children": [
+              {
                 "type": "folder",
-                "addDate": 1739851084867,
-                "title": "AI部署",
+                "addDate": 1746755879605,
+                "title": "Gihub开源项目",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1739851093132,
+                    "addDate": 1746755879605,
+                    "title": "GitHub - ddean2009/MoneyPrinterPlus: AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/ddean2009/MoneyPrinterPlus"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879605,
+                    "title": "GitHub - zhayujie/chatgpt-on-wechat: 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/zhayujie/chatgpt-on-wechat"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879606,
+                    "title": "leochen-g/wechat-assistant-pro: 智能微秘书,全能微信机器人管理平台,简单的方式接入ChatGPT,FastGPT,Dify,Coze,扣子,DeepSeek.支持绘图，语音识别，语音发送，定时任务，支持企微、公众号、5G 消息、WhatsApp",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/leochen-g/wechat-assistant-pro"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879606,
+                    "title": "AI应用awesome-deepseek-integration",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879606,
+                    "title": "Dify-for-DSL",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/wwwzhouhui/dify-for-dsl/tree/main"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879606,
+                    "title": "awesome-mcp-servers/README-zh.md at main · punkpeye/awesome-mcp-servers · GitHub",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/punkpeye/awesome-mcp-servers/blob/main/README-zh.md"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879606,
+                    "title": "brightwang/dify-tool-service: 为AI带路党Pro视频准备",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/brightwang/dify-tool-service"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879606,
+                    "title": "svcvit/Awesome-Dify-Workflow: 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/svcvit/Awesome-Dify-Workflow/tree/main?tab=readme-ov-file"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1748078448893,
+                    "title": "BannyLon/DifyAIA: 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/BannyLon/DifyAIA"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1746755879606,
+                "title": "AI PPT",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1746755879606,
+                    "title": "美图设计室LivePPT",
+                    "icon": "https://logo.clearbit.com/www.designkit.com",
+                    "url": "https://www.designkit.com/ppt/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879607,
+                    "title": "讯飞智文 - AI在线生成PPT、Word",
+                    "icon": "https://logo.clearbit.com/zhiwen.xfyun.cn",
+                    "url": "https://zhiwen.xfyun.cn/home"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879607,
+                    "title": "BannyLon/DifyAIA: 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/BannyLon/DifyAIA/tree/main"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1746755879607,
+                "title": "部署",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741138582676,
+                    "title": "前后端源码部署：Dify v0.15.0升级v1.0.0-beta.1的尝试 - 飞书云文档",
+                    "icon": "https://logo.clearbit.com/z0yrmerhgi8.feishu.cn",
+                    "url": "https://z0yrmerhgi8.feishu.cn/wiki/OBFxw2GtDiULLXk9QSlcHIkunhb"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879607,
                     "title": "基于 Windows 系统在本地部署 DeepSeek R1 并接入 Dify 基于 Windows 系统在本地部署 D - 掘金",
                     "icon": "https://logo.clearbit.com/article.juejin.cn",
                     "url": "https://article.juejin.cn/post/7472009647840444479"
                   },
                   {
                     "type": "link",
-                    "addDate": 1740723631369,
+                    "addDate": 1746755879607,
                     "title": "deepseek+dify零成本部署本地知识库保姆级教程_dify 本地部署-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/qq_42217708/article/details/145469023"
                   },
                   {
                     "type": "link",
-                    "addDate": 1741134624666,
+                    "addDate": 1746755879607,
                     "title": "Dify 大版本更新：v1.0.0 插件系统，为开发者带来无限可能！（附新版一键安装包）-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/apo0625/article/details/145957996"
                   },
                   {
                     "type": "link",
-                    "addDate": 1741663831313,
+                    "addDate": 1746755879607,
                     "title": "DeepSeek（深度求索）的AI能力与Microsoft Office（如Word、Excel、PowerPoint）连接_deepseek excel copilot-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/weixin_44088472/article/details/146048063"
                   },
                   {
                     "type": "link",
-                    "addDate": 1741674567341,
+                    "addDate": 1746755879607,
                     "title": "DeepSeek教程：如何在PPT上接入DeepSeek - 松鼠盒子AI",
                     "icon": "https://logo.clearbit.com/www.songshuhezi.com",
                     "url": "https://www.songshuhezi.com/deepseek/integration_ppt.html"
                   },
                   {
                     "type": "link",
-                    "addDate": 1744071265269,
-                    "title": "从0到1搭建智能文档处理系统：RAGFlow本地部署全攻略 - 知乎",
-                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                    "url": "https://zhuanlan.zhihu.com/p/1889807840580977950"
+                    "addDate": 1753924094571,
+                    "title": "Linux通过Git方式安装Dify（手把手教学）_linux安装dify-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_42535394/article/details/148170626"
                   }
                 ]
               },
               {
                 "type": "folder",
-                "addDate": 1740450507956,
-                "title": "大模型",
+                "addDate": 1749177211753,
+                "title": "常见问题",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1740450428507,
-                    "title": "SiliconFlow, Accelerate AGI to Benefit Humanity",
-                    "icon": "https://logo.clearbit.com/siliconflow.cn",
-                    "url": "https://siliconflow.cn/zh-cn/"
+                    "addDate": 1749177187705,
+                    "title": "Dify部署内网时遇到的代理问题及解决办法_dify 代理-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/hhue2007/article/details/147372461?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7EPaidSort-1-147372461-blog-147337598.235%5Ev43%5Epc_blog_bottom_relevance_base9&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7EPaidSort-1-147372461-blog-147337598.235%5Ev43%5Epc_blog_bottom_relevance_base9&utm_relevant_index=1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749174763904,
+                    "title": "Dify 代码节点，打开上传的文件，提示：No such file or directory？ - 知乎",
+                    "icon": "https://logo.clearbit.com/www.zhihu.com",
+                    "url": "https://www.zhihu.com/question/15333577257/answer/1895033778025497835"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749181395988,
+                    "title": "Dify开发必备：分享8个官方文档不曾解释的关键技巧_dify result must be a dict-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_55010563/article/details/146992810"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1752731572826,
+                    "title": "Dify教程（配置文件，附知识库上传15MB限制解决方案）_dify上传文件为什么被限制了15m-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/wal1314520/article/details/145922325"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1752737857067,
+                    "title": "Dify本地部署上传文件图片报错问题_dify file validation failed for file-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/wjr995819429/article/details/148696143?spm=1001.2014.3001.5502"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1753407795560,
+                    "title": "【老实人学代码】Dify 时间参数配置指南一篇搞定_dify env参数详解-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/Gothehell/article/details/148034997"
                   }
                 ]
               },
               {
+                "type": "folder",
+                "addDate": 1753318377961,
+                "title": "资料",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1750409593482,
+                    "title": "Dify 101 Tutorial: Comprehensive Guide to Master Dify.ai | No-Code AI Application Development Tutorial",
+                    "icon": "https://logo.clearbit.com/dify101.com",
+                    "url": "https://dify101.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750320585700,
+                    "title": "Hello Dify - 全网最齐全的免费Dify教程与最佳实践",
+                    "icon": "https://logo.clearbit.com/hellodify.com",
+                    "url": "https://hellodify.com/zh?use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=light"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749544017088,
+                    "title": "产品简介 - Dify Docs",
+                    "icon": "https://logo.clearbit.com/docs.dify.ai",
+                    "url": "https://docs.dify.ai/zh-hans/introduction"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1747707226609,
+                    "title": "Dify工作流 | 考拉的Ai树屋",
+                    "icon": "https://logo.clearbit.com/personel-zhouxinle888-a66353926f9185cff28f2bd374a5c3a9dd89d5206.gitlab.io",
+                    "url": "https://personel-zhouxinle888-a66353926f9185cff28f2bd374a5c3a9dd89d5206.gitlab.io/dify/dify-6.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1745541801088,
+                    "title": "hfhfn博客 ——Dify",
+                    "icon": "https://logo.clearbit.com/hfhfn.github.io",
+                    "url": "https://hfhfn.github.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741769962186,
+                    "title": "你们要的dify增强功能都在这里",
+                    "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                    "url": "https://mp.weixin.qq.com/s/4pVVkNLKB0BrJrLbEFcjTQ?source_btm_token=a1128.b17614.c232552.d94940.ef4ce3b00-4327-425c-889b-9103e13682a8&need_out_animation=right&finish_when_network_unavailable=false&bdx_monitor_append_params=%7B%22enter_from%22%3A%22im_safe_jump_to_web%22%7D&from_im=true&disable_auto_expose=1&enable_webview_select_search=1&font_scale=1.0"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1752828220952,
+                    "title": "‍⁠​‬​‍‍​​​‍‬​⁠﻿​﻿​​​​‍​‍​‌‬﻿‌‬​​​​⁠‍​​⁠‬‌‍‍⁠​﻿​⁠​‬《Dify应用操作和源码剖析》 - 飞书云文档",
+                    "icon": "https://logo.clearbit.com/z0yrmerhgi8.feishu.cn",
+                    "url": "https://z0yrmerhgi8.feishu.cn/wiki/N9MLw8SotiRDoYkUEMpc7UkUnGg"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1752645577552,
+                    "title": "编程/AI领域优质资源推荐，随短视频持续更新...",
+                    "icon": "https://logo.clearbit.com/www.yuque.com",
+                    "url": "https://www.yuque.com/xiaosanye-ohrmg/vy5zr1/wgg95lrgz2ioh208#9Q0m"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746755879605,
+                    "title": "考拉的Ai树屋",
+                    "icon": "https://logo.clearbit.com/personel-zhouxinle888-a66353926f9185cff28f2bd374a5c3a9dd89d5206.gitlab.io",
+                    "url": "https://personel-zhouxinle888-a66353926f9185cff28f2bd374a5c3a9dd89d5206.gitlab.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1754349790491,
+                    "title": "Dify学习-07-解读Github项目智能机器人(analysis-Github-project)实际操作_1 validation error for llmnodedata model.mode fiel-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_44522477/article/details/147103166"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750382110439,
+                    "title": "‌‌​‌​‌‍​﻿​​‬​‬‍⁠‌​﻿⁠‌​‍﻿​​‍​⁠​﻿‬​‌​‍​⁠﻿​﻿​‬​​﻿‬​​​Dify学习小组知识集 - 飞书云文档",
+                    "icon": "https://logo.clearbit.com/s1jzbxgm7l2.feishu.cn",
+                    "url": "https://s1jzbxgm7l2.feishu.cn/wiki/FzDdwlwNFiJaQZk6OTWcai6lnYe"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1758078220427,
+                    "title": "基于MinerU小助手一键导入Dify图文知识库",
+                    "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                    "url": "https://mp.weixin.qq.com/s/sAkVUUUoyTMR0jd0sqrfzA"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1759029335883,
+                    "title": "dify插件开发指南_dify 插件开发-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/forcedRegCsdn/article/details/151107000?ops_request_misc=%257B%2522request%255Fid%2522%253A%25228f6b5ac22b508de2e0005381aa77e096%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=8f6b5ac22b508de2e0005381aa77e096&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~time_text~default-1-151107000-null-null.142^v102^pc_search_result_base1&utm_term=dify&spm=1018.2226.3001.4187"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1759112027898,
+                    "title": "手把手教你如何在Dify配置MCP",
+                    "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                    "url": "https://mp.weixin.qq.com/s/RKl-rIuuFutBh4jeo47ECg"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1759195017350,
+                    "title": "centos安装dify-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qishiheyongshi/article/details/149738511"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1749177597274,
+            "title": "RAGFLOW",
+            "children": [
+              {
                 "type": "link",
-                "addDate": 1740471831208,
-                "title": "工作室 - Dify",
-                "icon": "https://logo.clearbit.com/192.168.6.101",
-                "url": "http://192.168.6.101/apps"
+                "addDate": 1746755879608,
+                "title": "从0到1搭建智能文档处理系统：RAGFlow本地部署全攻略 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/1889807840580977950"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1752658112758,
+            "title": "AI提示词",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1752645717337,
+                "title": "prompts.chat — 很棒的 AI 提示词",
+                "icon": "https://logo.clearbit.com/prompts.chat",
+                "url": "https://prompts.chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752658132445,
+                "title": "提示词优化器",
+                "icon": "https://logo.clearbit.com/prompt.cees.cc",
+                "url": "https://prompt.cees.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752659879024,
+                "title": "首页-开发者社区 | 开发者乐园 | 程序员社区 | 程序员乐园 | 巨人肩膀",
+                "icon": "https://logo.clearbit.com/www.atbigapp.com",
+                "url": "https://www.atbigapp.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752800308056,
+                "title": "PromptPilot",
+                "icon": "https://logo.clearbit.com/promptpilot.volcengine.com",
+                "url": "https://promptpilot.volcengine.com/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1755236890474,
+                "title": "PrompterHub - AI提示词管理平台 | 专业的prompt管理工具",
+                "icon": "https://logo.clearbit.com/www.prompterhub.cn",
+                "url": "https://www.prompterhub.cn/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1758097013792,
+                "title": "AI提示词生成器 - 免费创建完美提示词 | Prompt Ark",
+                "icon": "https://logo.clearbit.com/promptark.net",
+                "url": "https://promptark.net/zh"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1745200751794,
+            "title": "AI生图或视频",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1745200684906,
+                "title": "ComfyUI工作流comfyworkflows.com",
+                "icon": "https://logo.clearbit.com/comfyworkflows.com",
+                "url": "https://comfyworkflows.com/workflows"
+              },
+              {
+                "type": "link",
+                "addDate": 1745200870322,
+                "title": "OpenArt ComfyUI 工作流程模板",
+                "icon": "https://logo.clearbit.com/openart.ai",
+                "url": "https://openart.ai/workflows/templates"
+              },
+              {
+                "type": "link",
+                "addDate": 1745201067089,
+                "title": "comfyUI/README.md 在 master ·comfyanonymous/舒适UI",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/comfyanonymous/ComfyUI/blob/master/README.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1745225075457,
+                "title": "LiblibAI-哩布哩布AI - 中国领先的AI创作平台",
+                "icon": "https://logo.clearbit.com/www.liblib.art",
+                "url": "https://www.liblib.art/workflows"
+              },
+              {
+                "type": "link",
+                "addDate": 1748480921833,
+                "title": "Raphael AI - 免费无限制 AI 图像生成器",
+                "icon": "https://logo.clearbit.com/raphael.app",
+                "url": "https://raphael.app/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1752655984688,
+                "title": "免费AI绘画生成器：用文本创造AI艺术 - 海艺 AI",
+                "icon": "https://logo.clearbit.com/www.haiyi.art",
+                "url": "https://www.haiyi.art/create/image?id=f8172af6747ec762bcf847bd60fdf7cd&model_ver_no=2c39fe1f-f5d6-4b50-a273-499677f2f7a9"
               }
             ]
           },
@@ -2374,146 +2885,167 @@
             "url": "https://aistudio.baidu.com/deploy/mine"
           },
           {
-            "type": "folder",
-            "addDate": 1743146787431,
-            "title": "Gihub开源项目",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1743146794421,
-                "title": "GitHub - ddean2009/MoneyPrinterPlus: AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/ddean2009/MoneyPrinterPlus"
-              },
-              {
-                "type": "link",
-                "addDate": 1743146807943,
-                "title": "GitHub - zhayujie/chatgpt-on-wechat: 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/zhayujie/chatgpt-on-wechat"
-              },
-              {
-                "type": "link",
-                "addDate": 1743640128165,
-                "title": "leochen-g/wechat-assistant-pro: 智能微秘书,全能微信机器人管理平台,简单的方式接入ChatGPT,FastGPT,Dify,Coze,扣子,DeepSeek.支持绘图，语音识别，语音发送，定时任务，支持企微、公众号、5G 消息、WhatsApp",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/leochen-g/wechat-assistant-pro"
-              },
-              {
-                "type": "link",
-                "addDate": 1744589819383,
-                "title": "AI应用awesome-deepseek-integration",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md"
-              },
-              {
-                "type": "link",
-                "addDate": 1744590608081,
-                "title": "Dify-for-DSL",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/wwwzhouhui/dify-for-dsl/tree/main"
-              },
-              {
-                "type": "link",
-                "addDate": 1744879309306,
-                "title": "awesome-mcp-servers/README-zh.md at main · punkpeye/awesome-mcp-servers · GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/punkpeye/awesome-mcp-servers/blob/main/README-zh.md"
-              },
-              {
-                "type": "link",
-                "addDate": 1745562168887,
-                "title": "brightwang/dify-tool-service: 为AI带路党Pro视频准备",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/brightwang/dify-tool-service"
-              }
-            ]
+            "type": "link",
+            "addDate": 1753411863456,
+            "title": "CNB - Cloud Native Build",
+            "icon": "https://logo.clearbit.com/cnb.cool",
+            "url": "https://cnb.cool/"
           },
           {
-            "type": "folder",
-            "addDate": 1745200751794,
-            "title": "AI生图或视频",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1745200684906,
-                "title": "ComfyUI工作流comfyworkflows.com",
-                "icon": "https://logo.clearbit.com/comfyworkflows.com",
-                "url": "https://comfyworkflows.com/workflows"
-              },
-              {
-                "type": "link",
-                "addDate": 1745200870322,
-                "title": "OpenArt ComfyUI 工作流程模板",
-                "icon": "https://logo.clearbit.com/openart.ai",
-                "url": "https://openart.ai/workflows/templates"
-              },
-              {
-                "type": "link",
-                "addDate": 1745201067089,
-                "title": "comfyUI/README.md 在 master ·comfyanonymous/舒适UI",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/comfyanonymous/ComfyUI/blob/master/README.md"
-              },
-              {
-                "type": "link",
-                "addDate": 1745225075457,
-                "title": "LiblibAI-哩布哩布AI - 中国领先的AI创作平台",
-                "icon": "https://logo.clearbit.com/www.liblib.art",
-                "url": "https://www.liblib.art/workflows"
-              }
-            ]
+            "type": "link",
+            "addDate": 1753426357990,
+            "title": "腾讯元器",
+            "icon": "https://logo.clearbit.com/yuanqi.tencent.com",
+            "url": "https://yuanqi.tencent.com/"
           },
           {
-            "type": "folder",
-            "addDate": 1745724076211,
-            "title": "AI PPT",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1745724078434,
-                "title": "美图设计室LivePPT",
-                "icon": "https://logo.clearbit.com/www.designkit.com",
-                "url": "https://www.designkit.com/ppt/"
-              },
-              {
-                "type": "link",
-                "addDate": 1745724374481,
-                "title": "讯飞智文 - AI在线生成PPT、Word",
-                "icon": "https://logo.clearbit.com/zhiwen.xfyun.cn",
-                "url": "https://zhiwen.xfyun.cn/home"
-              },
-              {
-                "type": "link",
-                "addDate": 1745819374452,
-                "title": "BannyLon/DifyAIA: 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/BannyLon/DifyAIA/tree/main"
-              }
-            ]
+            "type": "link",
+            "addDate": 1759995917835,
+            "title": "Agnes",
+            "icon": "https://logo.clearbit.com/app.agnes-ai.com",
+            "url": "https://app.agnes-ai.com/"
           }
         ]
       },
       {
-        "type": "link",
-        "addDate": 1679556950012,
-        "title": "JSON在线解析及格式化验证 - JSON.cn",
-        "icon": "https://logo.clearbit.com/www.json.cn",
-        "url": "https://www.json.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1680481343643,
-        "title": "有道翻译_文本、文档、网页、在线即时翻译",
-        "icon": "https://logo.clearbit.com/fanyi.youdao.com",
-        "url": "https://fanyi.youdao.com/index.html#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1719965951182,
-        "title": "书链",
-        "icon": "https://logo.clearbit.com/xue.bookln.cn",
-        "url": "https://xue.bookln.cn/book/110910/52416d"
+        "type": "folder",
+        "addDate": 1748501625456,
+        "title": "USE",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1742561586032,
+            "title": "Dataset - DeepFashion 服装数据集 - AI备忘录",
+            "icon": "https://logo.clearbit.com/www.aiuai.cn",
+            "url": "https://www.aiuai.cn/aifarm112.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1744688425293,
+            "title": "微信文件传输助手网页版",
+            "icon": "https://logo.clearbit.com/szfilehelper.weixin.qq.com",
+            "url": "https://szfilehelper.weixin.qq.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1748499941434,
+            "title": "默认仪表盘-TAPD平台",
+            "icon": "https://logo.clearbit.com/www.tapd.cn",
+            "url": "https://www.tapd.cn/my_dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1747444804320,
+            "title": "MCP 广场 · 魔搭社区",
+            "icon": "https://logo.clearbit.com/modelscope.cn",
+            "url": "https://modelscope.cn/mcp"
+          },
+          {
+            "type": "link",
+            "addDate": 1748397813887,
+            "title": "开发者后台 - 飞书开放平台",
+            "icon": "https://logo.clearbit.com/open.feishu.cn",
+            "url": "https://open.feishu.cn/app?lang=zh-CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1747800667517,
+            "title": "Monthly Updates [May] • freemediaheckyeah",
+            "icon": "https://logo.clearbit.com/fmhy.net",
+            "url": "https://fmhy.net/posts/may-2025"
+          },
+          {
+            "type": "link",
+            "addDate": 1747706838513,
+            "title": "‌​​‌‌‌‬​‍​​​‍‬​​​​​‬⁠​​‌﻿​‍​​⁠​﻿﻿​​​​⁠​‍‌​‬​‍‌​﻿‌﻿快速入门 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/dataelem.feishu.cn",
+            "url": "https://dataelem.feishu.cn/wiki/ZxW6wZyAJicX4WkG0NqcWsbynde"
+          },
+          {
+            "type": "link",
+            "addDate": 1750927825646,
+            "title": "大模型服务平台百炼控制台",
+            "icon": "https://logo.clearbit.com/bailian.console.aliyun.com",
+            "url": "https://bailian.console.aliyun.com/?spm=5176.29597918.J_SEsSjsNv72yRuRFS2VknO.2.3d9d7b08T4VyWa&tab=app#/app-market/newTemplate"
+          },
+          {
+            "type": "link",
+            "addDate": 1747635379654,
+            "title": "火山方舟管理控制台",
+            "icon": "https://logo.clearbit.com/console.volcengine.com",
+            "url": "https://console.volcengine.com/ark/region:ark+cn-beijing/model?vendor=Bytedance&view=LIST_VIEW"
+          },
+          {
+            "type": "link",
+            "addDate": 1752647216758,
+            "title": "适用于任何网站的快速视频下载器 - DataTool.vip",
+            "icon": "https://logo.clearbit.com/www.datatool.vip",
+            "url": "https://www.datatool.vip/"
+          },
+          {
+            "type": "link",
+            "addDate": 1753317049883,
+            "title": "jvs-bi（自助式数据分析平台-智能BI）: JVS数据智仓是基于企业私有化部署的自助式数据分析平台。平台提供多数据源、数据可视化加工清洗、数据分析图表的配置、统计报表BI的配置、可视化数字大屏配置、开放的数据服务配置等功能。",
+            "icon": "https://logo.clearbit.com/gitee.com",
+            "url": "https://gitee.com/software-minister/jvs-bi#https://gitee.com/link?target=http%3A%2F%2Fbi.bctools.cn%2F"
+          },
+          {
+            "type": "link",
+            "addDate": 1753408788656,
+            "title": "TRAE - solo",
+            "icon": "https://logo.clearbit.com/www.trae.cn",
+            "url": "https://www.trae.cn/solo"
+          },
+          {
+            "type": "link",
+            "addDate": 1753411069841,
+            "title": "智能文档差异对比工具",
+            "icon": "https://logo.clearbit.com/cnb.cool",
+            "url": "https://cnb.cool/jaguarliu.cool/wenyuan-ai/DiffusionPro"
+          },
+          {
+            "type": "link",
+            "addDate": 1754634712227,
+            "title": "AI2.0时代的产品经理",
+            "icon": "https://logo.clearbit.com/www.kkjm.space",
+            "url": "https://www.kkjm.space/"
+          },
+          {
+            "type": "link",
+            "addDate": 1756976251526,
+            "title": "【抖音】搜索🔍【程序员三千】最新资料第一时间都会在【主页·粉丝群】更新【已入驻：抖音、b站、小红书、视频号】 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/qcngbzxf6def.feishu.cn",
+            "url": "https://qcngbzxf6def.feishu.cn/wiki/WQ3xwS2Jbil5FakldQscEkYqncd"
+          },
+          {
+            "type": "link",
+            "addDate": 1757576921049,
+            "title": "应用模板 | 智能体开发平台",
+            "icon": "https://logo.clearbit.com/adp.cloud.tencent.com",
+            "url": "https://adp.cloud.tencent.com/adp/#/experience-center/home?origin=all&spaceId=default_space"
+          },
+          {
+            "type": "link",
+            "addDate": 1757577280937,
+            "title": "百宝箱",
+            "icon": "https://logo.clearbit.com/www.tbox.cn",
+            "url": "https://www.tbox.cn/plugin-market"
+          },
+          {
+            "type": "link",
+            "addDate": 1757668488168,
+            "title": "Docker容器中安装Ollama教程",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/_AOZW-TwBy-_1vC6_33etg?click_id=36"
+          },
+          {
+            "type": "link",
+            "addDate": 1759191091180,
+            "title": "My Trae Project",
+            "icon": "https://logo.clearbit.com/www.dailyaigc.com",
+            "url": "https://www.dailyaigc.com/"
+          }
+        ]
       },
       {
         "type": "link",
@@ -2524,38 +3056,10 @@
       },
       {
         "type": "link",
-        "addDate": 1738468047452,
-        "title": "《汪汪队立大功 第一季》第01集在线观看 - 电影天堂",
-        "icon": "https://logo.clearbit.com/www.yenmon.com",
-        "url": "https://www.yenmon.com/play/40459-1-1.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1741138582676,
-        "title": "前后端源码部署：Dify v0.15.0升级v1.0.0-beta.1的尝试 - 飞书云文档",
-        "icon": "https://logo.clearbit.com/z0yrmerhgi8.feishu.cn",
-        "url": "https://z0yrmerhgi8.feishu.cn/wiki/OBFxw2GtDiULLXk9QSlcHIkunhb"
-      },
-      {
-        "type": "link",
-        "addDate": 1741769962186,
-        "title": "你们要的dify增强功能都在这里",
-        "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-        "url": "https://mp.weixin.qq.com/s/4pVVkNLKB0BrJrLbEFcjTQ?source_btm_token=a1128.b17614.c232552.d94940.ef4ce3b00-4327-425c-889b-9103e13682a8&need_out_animation=right&finish_when_network_unavailable=false&bdx_monitor_append_params=%7B%22enter_from%22%3A%22im_safe_jump_to_web%22%7D&from_im=true&disable_auto_expose=1&enable_webview_select_search=1&font_scale=1.0"
-      },
-      {
-        "type": "link",
-        "addDate": 1742561586032,
-        "title": "Dataset - DeepFashion 服装数据集 - AI备忘录",
-        "icon": "https://logo.clearbit.com/www.aiuai.cn",
-        "url": "https://www.aiuai.cn/aifarm112.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1744688425293,
-        "title": "微信文件传输助手网页版",
-        "icon": "https://logo.clearbit.com/szfilehelper.weixin.qq.com",
-        "url": "https://szfilehelper.weixin.qq.com/"
+        "addDate": 1751358429918,
+        "title": "破除复制限制",
+        "icon": "https://logo.clearbit.com/",
+        "url": "javascript:document.write(document.body.outerText)"
       }
     ]
   },
@@ -2629,10 +3133,31 @@
       },
       {
         "type": "link",
-        "addDate": 1745541801088,
-        "title": "hfhfn博客 ——Dify",
-        "icon": "https://logo.clearbit.com/hfhfn.github.io",
-        "url": "https://hfhfn.github.io/"
+        "addDate": 1746580635061,
+        "title": "2024年最好的免费域名注册平台网站大全（长期更新，建议收藏）-CSDN博客",
+        "icon": "https://logo.clearbit.com/blog.csdn.net",
+        "url": "https://blog.csdn.net/qq_41655898/article/details/144028104"
+      },
+      {
+        "type": "link",
+        "addDate": 1746606504942,
+        "title": "github.com",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/svcvit/Awesome-Dify-Workflow"
+      },
+      {
+        "type": "link",
+        "addDate": 1746670297125,
+        "title": "项目文件预览 - dify-chat:一个基于 Dify API 的 AI 会话 Web APP, 适配深度思考、Dify Chatflow/Workflow 应用、Agent 思维链输出信息。 - GitCode",
+        "icon": "https://logo.clearbit.com/gitcode.com",
+        "url": "https://gitcode.com/gh_mirrors/di/dify-chat/blob/main/README.md"
+      },
+      {
+        "type": "link",
+        "addDate": 1747095443512,
+        "title": "kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file"
       }
     ]
   }
